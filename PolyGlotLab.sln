@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyGlotLab.Contracts", "PolyGlotLab.Contracts\PolyGlotLab.Contracts.csproj", "{3BE262CF-CD65-4B28-BB0F-66EE26676064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyGlobLab", "PolyGlotLab\PolyGlobLab.csproj", "{52805215-5E20-4943-8CB9-D078143FA706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE262CF-CD65-4B28-BB0F-66EE26676064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE262CF-CD65-4B28-BB0F-66EE26676064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE262CF-CD65-4B28-BB0F-66EE26676064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE262CF-CD65-4B28-BB0F-66EE26676064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52805215-5E20-4943-8CB9-D078143FA706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52805215-5E20-4943-8CB9-D078143FA706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52805215-5E20-4943-8CB9-D078143FA706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52805215-5E20-4943-8CB9-D078143FA706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

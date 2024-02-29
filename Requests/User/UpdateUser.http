@@ -1,0 +1,13 @@
+@id=c113665a-ec84-4704-a186-0becc2fd42b4
+
+PUT http://localhost:5070/user/{{id}}
+Content-Type: application/json
+
+{
+    "firstName": "Johnathan",
+    "lastName": "Donaven",
+    "email": "J.Do@gmail.com",
+    "password" : "123doeACLS",
+    "dateOfBirth" : "1990-01-01",
+    "createdDate" : "2021-01-01"
+}

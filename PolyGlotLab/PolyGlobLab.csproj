@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <!-- .. Add a refernece : here we added the other prj as a reference -->
+  <!-- .. dotnet add mainProject reference refernecedProject -->
+  <ItemGroup>
+    <ProjectReference Include="..\PolyGlotLab.Contracts\PolyGlotLab.Contracts.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ErrorOr" Version="1.10.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

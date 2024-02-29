@@ -1,0 +1,12 @@
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.csproj.AssemblyReference.cache
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.AssemblyInfoInputs.cache
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.AssemblyInfo.cs
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\bin\Debug\net7.0\PolyGlotLab.Contracts.deps.json
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\bin\Debug\net7.0\PolyGlotLab.Contracts.dll
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\bin\Debug\net7.0\PolyGlotLab.Contracts.pdb
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.dll
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\refint\PolyGlotLab.Contracts.dll
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\PolyGlotLab.Contracts.pdb
+C:\Users\HP\.net\PolyGlotLab\PolyGlotLab.Contracts\obj\Debug\net7.0\ref\PolyGlotLab.Contracts.dll

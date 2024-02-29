@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfMXbIENuwPiGy/GCExFTSXe3U3Yeokl/KTmDyBDAxMrbQ2kC386cypf2vtcICYZv8b4FeOwpHQce9wEmxxGLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\.net\\PolyGlotLab\\PolyGlotLab\\PolyGlobLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
